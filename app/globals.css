@@ -32,13 +32,12 @@
   }
 }
 
-html {
+/* html {
   background: #18181a;
-}
+} */
 
 
 body {
   max-width: 100%;
   width: 90%;
-  background: #18181a;
 }
