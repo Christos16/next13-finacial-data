@@ -18,7 +18,9 @@
 # misc
 .DS_Store
 *.pem
-
+# Ignore environment variables file
+.env
+/.env
 # debug
 npm-debug.log*
 yarn-debug.log*
